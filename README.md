@@ -34,7 +34,7 @@ I am a Support Engineer, experienced in Devops and Programming and I am always e
 Here are a few projects I've worked on:
 
 ### [Stock APK](https://github.com/yaxpro/consultastock)
-![Project 1 Screenshot](https://via.placeholder.com/400x200)  
+(https://github.com/yaxpro/yaxpro/blob/main/image.png?raw=true) 
 **Description:** Implementation of an Stock inquiry for sales team.
 
 ## 📈 Experience
