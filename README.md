@@ -39,17 +39,18 @@ Here are a few projects I've worked on:
 
 ## 📈 Experience
 - Support IT at Francisco Petricio SPA (01-2021 - nowadays)
-  Fundamentals of Computing: Understand the basic principles of computer science, including hardware, software, and network systems.
-Programming Skills: Develop proficiency in various programming languages such as Python, Java, and C++, enabling the creation of efficient and robust software applications.
-System Administration: Gain knowledge in managing and maintaining computer systems and networks, ensuring optimal performance and security.
-Database Management: Learn to design, implement, and manage databases using SQL and other database management systems.
-Software Development: Acquire skills in software development methodologies, including agile practices, to effectively contribute to software projects.
-Cybersecurity: Understand the principles of cybersecurity, including risk assessment, threat mitigation, and the implementation of security protocols.
-Technical Support: Develop the ability to provide technical support and troubleshooting services for various IT-related issues.
+
+--Fundamentals of Computing: Understand the basic principles of computer science, including hardware, software, and network systems.
+--Programming Skills: Develop proficiency in various programming languages such as Python, Java, and C++, enabling the creation of efficient and robust software applications.
+--System Administration: Gain knowledge in managing and maintaining computer systems and networks, ensuring optimal performance and security.
+--Database Management: Learn to design, implement, and manage databases using SQL and other database management systems.
+--Software Development: Acquire skills in software development methodologies, including agile practices, to effectively contribute to software projects.
+--Cybersecurity: Understand the principles of cybersecurity, including risk assessment, threat mitigation, and the implementation of security protocols.
+--Technical Support: Develop the ability to provide technical support and troubleshooting services for various IT-related issues.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaxpro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxpro&layout=compact&theme=radical)
+GitHub Stats(https://github-readme-stats.vercel.app/api?username=yaxpro&show_icons=true&theme=radical)
+Top Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=yaxpro&layout=compact&theme=radical)
 
 
 
